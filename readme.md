@@ -7,8 +7,5 @@ a.選擇剛剛上傳的字體。
 b.導入後將[系統字體]改成剛剛上傳的字體。
 # 4.打開微信讀書，就會發現原本是簡體字改顯示繁體字囉
 
-
-![image](IMG_6351.jpg)
-![image](IMG_6352.jpg)
-
-<img src="IMG_6352.jpg" width="300">
+<img src="IMG_6351.jpg" width="400">
+<img src="IMG_6352.jpg" width="400">
