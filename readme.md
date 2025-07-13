@@ -9,4 +9,6 @@ b.導入後將[系統字體]改成剛剛上傳的字體。
 
 
 ![image](IMG_6351.jpg)
-![image](IMG_6352.jpg)  
+![image](IMG_6352.jpg)
+
+<img src="IMG_6352.jpg" width="300">
